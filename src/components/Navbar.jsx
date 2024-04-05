@@ -15,7 +15,7 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav m-auto">
               <li className="nav-item">
-                <Link className=" nav-link active " aria-current="page" to={'/'} style={{ fontSize: '27px',color:'green', fontWeight: '900px', marginReght:'10px',textAlign: 'center' }}> < IoFastFood size={"38px"}style={{marginRight:'20px',color:'blue'}} />Recipe Website</Link>
+                <Link className=" nav-link active " aria-current="page" to={'/'} style={{ fontSize: '27px',color:'green', fontWeight: '900px', marginReght:'10px',textAlign: 'center' }}> < IoFastFood size={"38px"}style={{marginRight:'20px',color:'blue'}} /> Best Recipe Website</Link>
               </li>
               {/* <li className="nav-item">
           <Link className="nav-link active" aria-current="page" to={'/Signup'}>Signup</Link>
